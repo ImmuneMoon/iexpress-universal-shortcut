@@ -1,5 +1,10 @@
 # IExpress Universal Shortcut
 
+![Platform: Windows](https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows&logoColor=white)
+![Opens IExpress](https://img.shields.io/badge/Opens-IExpress-6f42c1)
+![Builds self-extracting installers](https://img.shields.io/badge/Builds-self--extracting%20installers-5c2d91)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+
 A ready-made shortcut to **IExpress**, the self-extracting package builder that ships with every copy of Windows but has no Start menu entry.
 
 ## What is IExpress
